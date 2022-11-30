@@ -16,7 +16,7 @@ export default function Create() {
         })
     }
     return (
-        <div>
+        <div className='component'>
             <Form className="create-form">
                 <Form.Field>
                     <label>Name</label>

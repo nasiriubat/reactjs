@@ -24,7 +24,7 @@ export default function Update() {
         })
     }
     return (
-        <div>
+        <div className='component'>
             <Form className="create-form">
                 <Form.Field>
                     <label>First Name</label>

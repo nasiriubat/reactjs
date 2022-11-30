@@ -35,7 +35,7 @@ export default function Read() {
     }
 
     return (
-        <div>
+        <div className='component'>
             <Table singleLine>
                 <Table.Header>
                     <Table.Row>
